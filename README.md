@@ -11,7 +11,7 @@
     2. Runner up is Cookies n' Cream
     3. Coldstone's Cotton Candy Flavor is the bronze medal winner here
     
-Colons can be used to align columns.
+
 
 | Best Horror Games Ranked   | Year Released       | Platform |
 | -------------             |:-------------:|       ---------:|
